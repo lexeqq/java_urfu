@@ -7,11 +7,11 @@ import java.util.Scanner;
 
 public class Example1 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner in = new Scanner(System.in);
 
         // Запрос пути к исходному файлу
         System.out.print("Введите путь к исходному файлу: ");
-        String inputFile = scanner.nextLine();
+        String inputFile = in.nextLine();
 
         // Определяем директорию исходного файла
         File input = new File(inputFile);
