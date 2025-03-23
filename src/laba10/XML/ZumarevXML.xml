@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <movie>
+        <title>Побег из Шоушенка</title>
+        <director>Фрэнк Дарабонт</director>
+        <year>1994</year>
+    </movie>
+    <movie>
+        <title>Крестный отец</title>
+        <director>Фрэнсис Форд Коппола</director>
+        <year>1972</year>
+    </movie>
+</library>
